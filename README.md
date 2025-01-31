@@ -1,4 +1,4 @@
- motion-git-assignment_1
+# motion-git-assignment_1
 1. We need to create the repository in Github -> motion-git-assignment.
 2. Init Git -> git init
 3.cloning the git -> git clone https://github.com/Vikku03/motion-git-assignment_2.git
